@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 @author: Christopher
-Program that calculates 
+Program that calculates how many more semesters 
+and the total cost of completing a bachelors degree for the use
 """
 import math
 
